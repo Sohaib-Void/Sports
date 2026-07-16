@@ -1,0 +1,45 @@
+.head {
+    display: flex;
+    /* justify-content: flex-end; */
+    margin-right: 30px;
+    background-color: aqua;
+    padding: 15px;
+}
+
+#goat {
+    background-color: rgb(55, 197, 197);
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin: 20px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    padding: 60px;
+    border-radius: 20px;
+}
+
+span {
+    color: palegreen;
+}
+
+#main {
+    width: 100px;
+    height: 600px;
+    margin-top: 20px;
+    border: 20px;
+    border-radius: 30px;
+
+}
+
+#h2 {
+    text-align: center;
+}
+
+.bh {
+    border: 20px;
+    background-color: beige;
+    margin: 20px;
+    padding: 30px;
+    border-color: red;
+    border-radius: 15px;
+}
